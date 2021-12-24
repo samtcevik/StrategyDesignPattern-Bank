@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "StrategyDesignPattern.UI/1.0.0": {
+        "dependencies": {
+          "StrategyDesignPattern.Entities": "1.0.0",
+          "StrategyDesignPattern.Operations": "1.0.0"
+        },
+        "runtime": {
+          "StrategyDesignPattern.UI.dll": {}
+        }
+      },
+      "StrategyDesignPattern.Entities/1.0.0": {
+        "runtime": {
+          "StrategyDesignPattern.Entities.dll": {}
+        }
+      },
+      "StrategyDesignPattern.Operations/1.0.0": {
+        "dependencies": {
+          "StrategyDesignPattern.Entities": "1.0.0"
+        },
+        "runtime": {
+          "StrategyDesignPattern.Operations.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StrategyDesignPattern.UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StrategyDesignPattern.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StrategyDesignPattern.Operations/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

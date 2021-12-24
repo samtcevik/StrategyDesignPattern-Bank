@@ -1,0 +1,23 @@
+﻿Bu tasarım desenindeki amaç tanımlanmış algoritmaların herbirini kapsülleyerek değiştirilebilir bir yapı kurmak.
+
+Örneğin bir bankacılık uygulamasında para çekme, para gönderme, fatura ödeme vb. şekilde bir çok işlem olabilir.
+Bu işlemlerde her zaman tekbir adımda yapılamayabilir ve kendi içinde de bölümlere ayrılabilir. 
+Örneğin ödeme işlemini düşünelim.
+
+1.ATM'den ödemeler butonuna bas. (Eğer arka tarafta servis dinamik olarak tasarlanmış ise burada servis çağırdık.)
+2.Ödemek istediğimiz şeyi seçtik, örneğin su... (Su ile ilgili kurumların gelmesi için bir servis daha çağırdık.)
+3.Su saatinin numarasını girdik ve onaya bastık(Su saatine ait bilgililerin gelmesi için bir servis daha çarğırdık.)
+4.Ödemek istediğimiz faturayı seçtik ve onaya bastık(Bir sonraki adımda ödeme aracı seçeceğimiz için bize ait
+ve ödeme yapmaya uygun yani bakiyesi yeterli hesapları getiren servisi çağırdık)
+5.Hesabı seçtik ve onaya basarak en son onay sayfasına gittik.
+6. Onay butonuna bastık. Herhangibir işlem kesici durum ile karşılaşmazsak işlemi bitiriyoruz.
+(Son adımda da işlem onay servisini çağırdık. Kurulan yapıya göre ödeme yaparken kullandığımız hesabın bakiyesini 
+güncellemek için bir servis daha çağırabiliriz.)
+
+
+Görüldüğü gibi bir ödeme işlemini gerçekleştirebilmek için  6 farklı servisin oluşturulması gerekiyor. 
+Burada dikkat etmemiz gereken nokta şu olmalı her ödeme yapısı aynı olmayabilir ya da para yatırma işlemi ile para çekme işlemi
+aynı yapıda olmaya bilir. O zaman bizim bu sistemi tasarlarken farklı algoritmaları çalıştırabileceğimiz ve sisteme ekleme ya da
+sistemden çıkarma yaptığımızda sistemi etkilemeyecek yani kodu değiştirmeyeceğimiz bir yapı kurmamız gerekiyor.
+
+

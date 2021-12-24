@@ -1,0 +1,9 @@
+C:\Users\samet\OneDrive\Masaüstü\GitHubProjeler\Design-Patterns\StrategyDesignPattern\StrategyDesignPattern.Entities\bin\Debug\netcoreapp3.1\StrategyDesignPattern.Entities.deps.json
+C:\Users\samet\OneDrive\Masaüstü\GitHubProjeler\Design-Patterns\StrategyDesignPattern\StrategyDesignPattern.Entities\bin\Debug\netcoreapp3.1\StrategyDesignPattern.Entities.dll
+C:\Users\samet\OneDrive\Masaüstü\GitHubProjeler\Design-Patterns\StrategyDesignPattern\StrategyDesignPattern.Entities\bin\Debug\netcoreapp3.1\StrategyDesignPattern.Entities.pdb
+C:\Users\samet\OneDrive\Masaüstü\GitHubProjeler\Design-Patterns\StrategyDesignPattern\StrategyDesignPattern.Entities\obj\Debug\netcoreapp3.1\StrategyDesignPattern.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samet\OneDrive\Masaüstü\GitHubProjeler\Design-Patterns\StrategyDesignPattern\StrategyDesignPattern.Entities\obj\Debug\netcoreapp3.1\StrategyDesignPattern.Entities.AssemblyInfoInputs.cache
+C:\Users\samet\OneDrive\Masaüstü\GitHubProjeler\Design-Patterns\StrategyDesignPattern\StrategyDesignPattern.Entities\obj\Debug\netcoreapp3.1\StrategyDesignPattern.Entities.AssemblyInfo.cs
+C:\Users\samet\OneDrive\Masaüstü\GitHubProjeler\Design-Patterns\StrategyDesignPattern\StrategyDesignPattern.Entities\obj\Debug\netcoreapp3.1\StrategyDesignPattern.Entities.csproj.CoreCompileInputs.cache
+C:\Users\samet\OneDrive\Masaüstü\GitHubProjeler\Design-Patterns\StrategyDesignPattern\StrategyDesignPattern.Entities\obj\Debug\netcoreapp3.1\StrategyDesignPattern.Entities.dll
+C:\Users\samet\OneDrive\Masaüstü\GitHubProjeler\Design-Patterns\StrategyDesignPattern\StrategyDesignPattern.Entities\obj\Debug\netcoreapp3.1\StrategyDesignPattern.Entities.pdb
