@@ -12,6 +12,8 @@ namespace StrategyDesignPattern.Operations.Query
             var msg = Request as CompanyListMessage;
             Console.WriteLine("GetCompaniesAction Çalıştırıldı");
 
+            //Burada GetCompaniesAction ile ilgili operasyon kodları yazılır.
+
         }
     }
 }

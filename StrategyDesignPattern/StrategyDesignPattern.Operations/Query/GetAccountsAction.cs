@@ -10,6 +10,8 @@ namespace StrategyDesignPattern.Operations.Query
         {
             var message = Request as AccountListMessage;
             Console.WriteLine("GetAccountsAction Çalıştırıldı");
+
+            //Burada GetAccountsAction ile ilgili operasyon kodları yazılır.
         }
     }
 }

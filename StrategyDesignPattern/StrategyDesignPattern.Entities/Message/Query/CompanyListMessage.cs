@@ -4,7 +4,7 @@ using StrategyDesignPattern.Entities.Entity;
 
 namespace StrategyDesignPattern.Entities.Message.Query
 {
-    public class CompanyListMessage : IRequestMessage
+    public class CompanyListMessage : RequestMessage
     {
         public List<Company> Type { get; set; }
     }

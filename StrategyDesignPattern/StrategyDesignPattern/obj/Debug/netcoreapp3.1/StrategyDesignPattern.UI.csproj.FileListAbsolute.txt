@@ -16,4 +16,3 @@ C:\Users\samet\OneDrive\Masaüstü\GitHubProjeler\Design-Patterns\StrategyDesign
 C:\Users\samet\OneDrive\Masaüstü\GitHubProjeler\Design-Patterns\StrategyDesignPattern\StrategyDesignPattern\obj\Debug\netcoreapp3.1\StrategyDesignPattern.UI.csproj.AssemblyReference.cache
 C:\Users\samet\OneDrive\Masaüstü\GitHubProjeler\Design-Patterns\StrategyDesignPattern\StrategyDesignPattern\bin\Debug\netcoreapp3.1\StrategyDesignPattern.Operations.dll
 C:\Users\samet\OneDrive\Masaüstü\GitHubProjeler\Design-Patterns\StrategyDesignPattern\StrategyDesignPattern\bin\Debug\netcoreapp3.1\StrategyDesignPattern.Operations.pdb
-C:\Users\samet\OneDrive\Masaüstü\GitHubProjeler\Design-Patterns\StrategyDesignPattern\StrategyDesignPattern\obj\Debug\netcoreapp3.1\StrategyDesignPattern.UI.csproj.CopyComplete

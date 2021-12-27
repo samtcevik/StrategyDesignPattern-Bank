@@ -4,7 +4,7 @@ using StrategyDesignPattern.Entities.Entity;
 
 namespace StrategyDesignPattern.Entities.Message.Query
 {
-    public class InvoiceDetailMessage : IRequestMessage
+    public class InvoiceDetailMessage : RequestMessage
     {
         public List<Invoice> Type { get; set; }
     }

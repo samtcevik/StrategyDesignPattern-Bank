@@ -12,6 +12,8 @@ namespace StrategyDesignPattern.Operations.Query
             var message = Request as InvoiceDetailMessage;
             Console.WriteLine("GetInvoicesAction Çalıştırıldı");
 
+            //Burada GetInvoicesAction ile ilgili operasyon kodları yazılır.
+
         }
     }
 }

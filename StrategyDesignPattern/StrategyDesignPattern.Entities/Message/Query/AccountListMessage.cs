@@ -4,7 +4,7 @@ using StrategyDesignPattern.Entities.Entity;
 
 namespace StrategyDesignPattern.Entities.Message.Query
 {
-    public class AccountListMessage : IRequestMessage
+    public class AccountListMessage : RequestMessage
     {
         public List<Account> Accounts { get; set; }
     }

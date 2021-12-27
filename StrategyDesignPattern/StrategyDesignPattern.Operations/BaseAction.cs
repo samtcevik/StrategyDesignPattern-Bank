@@ -6,12 +6,15 @@ using StrategyDesignPattern.Entities.Base;
 
 namespace StrategyDesignPattern.Operations
 {
-    public abstract class BaseAction
+    public abstract class BaseAction : DefaultAction
     {
-        public IRequestMessage Request { get; set; }
+        protected BaseAction()
+        {
+            
+        }
+        public new RequestMessage Request => (RequestMessage)base.Request;
 
         public abstract void Execute();
-
 
     }
 }
